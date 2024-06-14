@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tderick" target="blank"><img src="https://img.shields.io/twitter/follow/tderick?logo=twitter&style=for-the-badge" alt="tderick" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernates**
+- 🌱 I’m currently learning **Kubernetes**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
